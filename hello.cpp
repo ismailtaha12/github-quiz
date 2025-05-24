@@ -1,2 +1,6 @@
 cout <<"hello";
-cout<<"conflict 1";
+
+cout<<"this is in secound branch";
+
+cout<<"confilct resolved";
+
